@@ -1,6 +1,6 @@
 # Photo-Booth-OpenCV
 Creating a photobooth with OpenCV and Pyhton 
-[Demo](https://github.com/anasm-17/Photo-Booth-OpenCV/blob/master/Results/Resulting-screen.jpg?raw=true)
+![Demo](https://github.com/anasm-17/Photo-Booth-OpenCV/blob/master/Results/Resulting-screen.jpg?raw=true)
 
 Hello everyone, in this project I am going to attempt to build a photobooth using python with the options "Print", "Cancel" and "Email".
 
