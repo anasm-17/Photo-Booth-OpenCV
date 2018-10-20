@@ -1,7 +1,10 @@
 # Photo-Booth-OpenCV
 Creating a photobooth with OpenCV and Pyhton 
+[Demo](https://github.com/petercunha/Emotion/blob/master/demo/demo.gif?raw=true)
 
 Hello everyone, in this project I am going to attempt to build a photobooth using python with the options "Print", "Cancel" and "Email".
+
+
 
 ## Tkinter
 First thing we will need is to get familiar with Tkinter, if you are new to this module kindly refer to the "Tkinter_Help.ipynb",
